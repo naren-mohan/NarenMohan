@@ -2,17 +2,26 @@
 ### [LinkedIn](https://www.linkedin.com/in/narenmohan1997/) 
 <!-- Add medium blog here -->
 
-I am from the silicon valley of India, currently pursuing my Master's degree at Northeastern University, Boston. Since childhood, I was fond of two things - Math and Computers. The passion in these two things have made me quit my high paying job and have brought me 14,000 kms far from my home to pursue my higher education in Data Analytics. I believe that the best application of these two things is in the field of Data Science to make deeper insights which are very crucial to any businesses. I also have over 3 years of professional experience working as a Senior Software Engineer analysing the vulnerability data for Sony.
+I am from the silicon valley of India, currently pursuing my Master's degree at Northeastern University, Boston. Since childhood, I was fond of two things - Math and Computers. The passion in these two things have made me quit my decently high paying job, and have brought me 14,000 kms far from my home to pursue my higher education in Data Analytics. I believe that the best application of these two things is in the field of Data Science to make deeper insights that are crucial to businesses. I have 3 years of professional experience working as a Senior Software Engineer analysing the vulnerability data for Sony.
 
 <!--- Add another image here --->
 
 <!-- Write stuff about my interest in data science in here -->
-In the recent days, the term "Data Science" is booming and the job market is filled with companies that wants to hire Data Scientists. What's special about Data Science?! Well, firstly, Data Science is all about making sense out of a given data and I believe that Data Science is not something new. It has been there for hundreds of years. However, it was used for large size problems. For example, during the 18th century, Herman Hollerith invented the Tabulating machine that enabled the researchers to extrapolate different forms of the census data. Nowadays, the data science is applied on macro level problems which, however, impacts the business in large terms. Also, the data is available now in digital formats, thus, making it more easier to be processed by a computer. This has enabled the businesses to use data science to find those deeper level insights to gain an advantage over competitors. I enjoy finding these insights because of the variety of data that I will be handling and incorporating them into work making a bigger impact for an organization.
 
-![Everything Data](/images/Data_image.jpeg)
+### What makes Data Science so exciting? 
+
+The role of a Data Scientist is like the role of a detective. You gather data from various sources, you clean and organize the data, you apply techniques and algorithms to find deeper insights about the data and finally you draw conclusions out of the data. In the modern days, data is one of the main features of any business. Data in its raw, unstructured form usually doesn't make much of a sense. The best way to benefit from this valuable resource is by making analyses, applying strategies, thus understanding the data and improving the business with it.
+
+<!--- ![Everything Data](/images/Data_image.jpeg) --->
 
 <!-- Create section for projects -->
 
+### My Projects
+
 <!-- Create section for certifications -->
 
+### My certifications
+
 <!-- Create section for homeworks -->
+
+### My learnings
