@@ -20,8 +20,8 @@ The role of a Data Scientist is like the role of a detective. You gather data fr
 
 <!-- Create section for certifications -->
 
-### My certifications
+### My Certifications
 
 <!-- Create section for homeworks -->
 
-### My learnings
+### Learnings
