@@ -55,7 +55,7 @@ Stay humble and stay curious for you will always have various things to learn fr
 
 **[Structuring Machine Learning Projects by DeepLearning.AI](/cert/Structuring%20Machine%20Learning%20Projects.png)**
 
-**[Convolutional Neural Networks](/cert/Convolutional%20Neural%20Networks.png)**
+**[Convolutional Neural Networks by DeepLearning.AI](/cert/Convolutional%20Neural%20Networks.png)**
 
 **[SQL for Data Science by Univeristy of California, Davis](/cert/SQL%20for%20Data%20Science.png)**
 
