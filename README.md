@@ -11,16 +11,16 @@ The role of a Data Scientist, to me, is essentially playing the role of a detect
 In the modern days, almost all businesses collect and store data. The best way to benefit from this valuable resource is by making analyses, applying strategies, understanding the data and thus, improving the business with it.
 
 ### 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗦𝗸𝗶𝗹𝗹𝘀 - 
-Programming Languages - Python, R, SQL, C++, Node.Js
-Frameworks - Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn, TensorFlow
-Techniques - Data Wrangling, Web Scraping, ETL, Machine Learning, Deep Learning, Regex, API
-Platform - AWS (EC2, Elastic Beanstalk, Lambda Services), GCP (API Services), MS Excel, Kenna Security, Qualys, GitHub, Azure DevOps, JIRA, Confluence, Splunk, Adobe Creative Suite
+**Programming Languages** - Python, R, SQL, C++, Node.Js <br>
+**Frameworks** - Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn, TensorFlow <br>
+**Techniques** - Data Wrangling, Web Scraping, ETL, Machine Learning, Deep Learning, Regex, API <br>
+**Platform** - AWS (EC2, Elastic Beanstalk, Lambda Services), GCP (API Services), MS Excel, Kenna Security, Qualys, GitHub, Azure DevOps, JIRA, Confluence, Splunk, Adobe Creative Suite 
 
 ### 𝗜𝗻𝘁𝗲𝗿𝗲𝘀𝘁𝘀 - 
-Cardistry 🃏
 Badminton 🏸
 Cricket 🏏
 Photography 📸
+Cardistry 🃏
 Video editing 🎞
 Cooking 👨🏽‍🍳
 Travel 🏝
