@@ -1,5 +1,5 @@
 # Naren Mohan
-#### [(/images/linkedin.ico)](https://www.linkedin.com/in/narenmohan1997/) 
+#### [!(/images/linkedin.ico)](https://www.linkedin.com/in/narenmohan1997/) 
 
 <!-- Add medium blog here -->
 ### 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲 - 
