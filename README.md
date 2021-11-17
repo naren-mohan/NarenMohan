@@ -12,7 +12,7 @@ In the modern days, almost all businesses collect and store data. The best way t
 
 ### 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗦𝗸𝗶𝗹𝗹𝘀 - 
 **Programming Languages** - Python, R, SQL, C++, Node.Js <br>
-**Frameworks** - Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn, TensorFlow <br>
+**Libraries** - Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn, TensorFlow <br>
 **Techniques** - Data Wrangling, Web Scraping, ETL, Machine Learning, Deep Learning, Regex, API <br>
 **Platform** - AWS (EC2, Elastic Beanstalk, Lambda Services), GCP (API Services), MS Excel, Kenna Security, Qualys, GitHub, Azure DevOps, JIRA, Confluence, Splunk, Adobe Creative Suite 
 
