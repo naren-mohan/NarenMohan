@@ -43,12 +43,20 @@ Stay humble and stay curious for you will always have various things to learn fr
 
 **[Movember Face Filter Application](https://github.com/naren-mohan/MovemberFilterApp)**
 
-**AutoDub Using GANs**
+**[AutoDub Using GANs](https://github.com/naren-mohan/AutoDub-Using-GANs)**
 
 **[Youtube Sentiment Analysis](https://github.com/naren-mohan/Youtube-Sentiment-Analysis)**
 
 ## Certifications
 
-<!-- Create section for homeworks -->
+**[Neural Networks and Deep Learning by DeepLearning.AI](/cert/Neural%20Networks.png)**
 
-## Learnings
+**[Improving Deep Neural Networks by DeepLearning.AI](cert/Improving%20Deep%20Neural%20Networks.png)**
+
+**[Structuring Machine Learning Projects by DeepLearning.AI](/cert/Structuring%20Machine%20Learning%20Projects.png)**
+
+**[Convolutional Neural Networks](/cert/Convolutional%20Neural%20Networks.png)**
+
+**[SQL for Data Science by Univeristy of California, Davis](/cert/SQL%20for%20Data%20Science.png)**
+
+**[Qualys Vulnerability Management](/cert/Qualys.jpeg)**
