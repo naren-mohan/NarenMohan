@@ -37,13 +37,17 @@ What you sow is what you reap. I believe in what you do today, be it good or bad
 ***"Known is a Drop, and unknown is an Ocean."*** <br>
 Stay humble and stay curious for you will always have various things to learn from different people.
 
-<!-- Create section for projects -->
+## Projects
 
-## My Projects
+**[Hack Amazon Using Amazon](https://github.com/naren-mohan/HackAmazonUsingAmazon)**
 
-<!-- Create section for certifications -->
+**[Movember Face Filter Application](https://github.com/naren-mohan/MovemberFilterApp)**
 
-## My Certifications
+**AutoDub Using GANs**
+
+**[Youtube Sentiment Analysis](https://github.com/naren-mohan/Youtube-Sentiment-Analysis)**
+
+## Certifications
 
 <!-- Create section for homeworks -->
 
