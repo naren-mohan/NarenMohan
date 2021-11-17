@@ -1,4 +1,6 @@
 # Naren Mohan
+
+<img src="/images/linkedin.ico" alt="LinkedIn" width="10" height="10"/>
 #### [![LinkedIn](/images/linkedin.ico)](https://www.linkedin.com/in/narenmohan1997/) 
 
 <!-- Add medium blog here -->
