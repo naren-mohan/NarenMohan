@@ -12,7 +12,7 @@ In the modern days, almost all businesses collect and store data. The best way t
 ## 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗦𝗸𝗶𝗹𝗹𝘀 - 
 **Programming Languages** - Python, R, SQL, C++, Node.Js <br>
 **Databases** - MySQL, SQLite, MongoDB, DynamoDB
-**Libraries** - Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn, TensorFlow <br>
+**Libraries** - Numpy, Pandas, Matplotlib, Seaborn, Plotly, ggplot2, Scikit-Learn, TensorFlow, Beautiful Soup, Requests<br>
 **Techniques** - Data Wrangling, Web Scraping, ETL, Machine Learning, Deep Learning, Regex, API <br>
 **Platform** - AWS (EC2, Elastic Beanstalk, Lambda Services), GCP (API Services), MS Excel, Kenna Security, Qualys, GitHub, Azure DevOps, JIRA, Confluence, Splunk, Adobe Creative Suite 
 
@@ -25,7 +25,7 @@ Video editing 🎞
 Cooking 👨🏽‍🍳
 Travel 🏝
 
-## 𝗜 𝗯𝗲𝗹𝗶𝗲𝘃𝗲 𝗮𝗻𝗱 𝗹𝗶𝘃𝗲 𝗯𝘆 𝘁𝗵𝗲𝘀𝗲 𝗳𝗼𝗹𝗹𝗼𝘄𝗶𝗻𝗴 𝗾𝘂𝗼𝘁𝗲𝘀 -
+## 𝗜 𝗯𝗲𝗹𝗶𝗲𝘃𝗲 𝗮𝗻𝗱 𝘁𝗿𝘆 𝘁𝗼 𝗹𝗶𝘃𝗲 𝗯𝘆 𝘁𝗵𝗲 𝗳𝗼𝗹𝗹𝗼𝘄𝗶𝗻𝗴 𝗾𝘂𝗼𝘁𝗲𝘀 -
 
 ***"Process is important than the results"*** <br>
 Enjoying the process is always important than the results. Results are, in fact, a byproduct of the process. Successes and Failures both, are inevitable but should be treated equally and what matters the most is what you learn out of it. 
@@ -48,6 +48,8 @@ Stay humble and stay curious for you will always have various things to learn fr
 **[AutoDub Using GANs](https://github.com/naren-mohan/AutoDub-Using-GANs)**
 
 **[Youtube Sentiment Analysis](https://github.com/naren-mohan/Youtube-Sentiment-Analysis)**
+
+**[Cluster Analysis of Countries](https://github.com/naren-mohan/World-Indicators-Clustering)**
 
 ## Certifications
 
