@@ -10,7 +10,7 @@ The role of a Data Scientist, to me, is essentially playing the role of a detect
 In the modern days, almost all businesses collect and store data. The best way to benefit from this valuable resource is by making analyses, applying strategies, understanding the data and thus, improving the business with it.
 
 ## 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗦𝗸𝗶𝗹𝗹𝘀 - 
-**Programming Languages** - Python, R, SQL, SAS, C++, Node.Js <br>
+**Programming Languages** - Python, R, SQL, SPSS, C++, Node.Js <br>
 **Databases** - MySQL, SQLite, MongoDB, DynamoDB
 **Libraries** - Numpy, Pandas, Matplotlib, Seaborn, Plotly, ggplot2, Scikit-Learn, TensorFlow, Beautiful Soup, Flask<br>
 **Techniques** - Data Wrangling, Web Scraping, ETL, Machine Learning, Deep Learning, Regex, API <br>
