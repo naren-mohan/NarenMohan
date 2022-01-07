@@ -45,6 +45,8 @@ Stay humble and stay curious for you will always have various things to learn fr
 
 **[AutoDub Using GANs](https://youtu.be/m38UZd_nAiw)**
 
+**[Handwritten Digits Classification](https://github.com/naren-mohan/MNIST-digit-classifier)**
+
 **[Youtube Sentiment Analysis](https://github.com/naren-mohan/Youtube-Sentiment-Analysis)**
 
 **[Analysis of Capital Bikeshare data](https://github.com/naren-mohan/Analysis-on-Capital-Bikeshare-data)**
