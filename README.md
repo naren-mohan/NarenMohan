@@ -11,8 +11,8 @@ In the modern days, almost all businesses collect and store data. The best way t
 
 ## 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗦𝗸𝗶𝗹𝗹𝘀 - 
 **Programming Languages** - Python, R, SQL, SPSS, C++, Node.Js <br>
-**Databases** - MySQL, SQLite, MongoDB, DynamoDB
-**Libraries** - Numpy, Pandas, Matplotlib, Seaborn, Plotly, ggplot2, Scikit-Learn, TensorFlow, Beautiful Soup, Flask<br>
+**Databases** - MySQL, SQLite, MongoDB, DynamoDB <br>
+**Libraries** - Numpy, Pandas, Matplotlib, Seaborn, Plotly, ggplot2, Scikit-Learn, TensorFlow, Beautiful Soup, Flask <br>
 **Techniques** - Data Wrangling, Web Scraping, ETL, Machine Learning, Deep Learning, Regex, API <br>
 **Platform** - AWS (EC2, Elastic Beanstalk, Lambda Services), GCP (API Services), MS Excel, Kenna Security, Qualys, GitHub, Azure DevOps, JIRA, Confluence, Splunk, Adobe Creative Suite 
 
