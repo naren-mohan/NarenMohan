@@ -44,11 +44,11 @@ Stay humble and stay curious for you will always have various things to learn fr
 **[AutoDub Using GANs](https://youtu.be/m38UZd_nAiw)**<br>
 Deep Learning solution to convert voice of one speaker to that of another's through CycleGAN algorithm
 
-**[Handwritten Digits Classification](https://github.com/naren-mohan/MNIST-digit-classifier)**<br>
-Handwritten digits classification implementing feature augmentation and trained using KNN Classifier
-
 **[Yelp Reviews Topic Modeling](https://github.com/naren-mohan/Yelp-Reviews-Topic-Modeling)**<br>
 Applying sentimental analysis on topic modeling to analyze the topics of positive and negative reviews
+
+**[Handwritten Digits Classification](https://github.com/naren-mohan/MNIST-digit-classifier)**<br>
+Handwritten digits classification implementing feature augmentation and trained using KNN Classifier
 
 **[Hack Amazon Using Amazon](https://github.com/naren-mohan/HackAmazonUsingAmazon)**<br>
 End to end web scraping implementation to notify price drops of products listed on amazon.com using AWS EC2 instance
