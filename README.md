@@ -41,21 +41,29 @@ Stay humble and stay curious for you will always have various things to learn fr
 
 ## Projects
 
-**[Hack Amazon Using Amazon](https://github.com/naren-mohan/HackAmazonUsingAmazon)**
+**[AutoDub Using GANs](https://youtu.be/m38UZd_nAiw)**<br>
+Deep Learning solution to convert voice of one speaker to that of another's through CycleGAN algorithm
 
-**[AutoDub Using GANs](https://youtu.be/m38UZd_nAiw)**
+**[Handwritten Digits Classification](https://github.com/naren-mohan/MNIST-digit-classifier)**<br>
+Handwritten digits classification implementing feature augmentation and trained using KNN Classifier
 
-**[Handwritten Digits Classification](https://github.com/naren-mohan/MNIST-digit-classifier)**
+**[Yelp Reviews Topic Modeling](https://github.com/naren-mohan/Yelp-Reviews-Topic-Modeling)**<br>
+Applying sentimental analysis on topic modeling to analyze the topics of positive and negative reviews
 
-**[Yelp Reviews Topic Modeling](https://github.com/naren-mohan/Yelp-Reviews-Topic-Modeling)**
-
-**[Youtube Sentiment Analysis](https://github.com/naren-mohan/Youtube-Sentiment-Analysis)**
-
-**[Analysis of Capital Bikeshare data](https://github.com/naren-mohan/Analysis-on-Capital-Bikeshare-data)**
+**[Hack Amazon Using Amazon](https://github.com/naren-mohan/HackAmazonUsingAmazon)**<br>
+End to end web scraping implementation to notify price drops of products listed on amazon.com using AWS EC2 instance
 
 **[Cluster Analysis of Countries](https://github.com/naren-mohan/World-Indicators-Clustering)**
+Unsupervised learning implementation of clustering methods and dimensionality reduction on various features using R language
+
+**[Youtube Sentiment Analysis](https://github.com/naren-mohan/Youtube-Sentiment-Analysis)**
+Analyse the sentiment of comments of a YouTube video 
+
+**[Analysis of Capital Bikeshare data](https://github.com/naren-mohan/Analysis-on-Capital-Bikeshare-data)**
+Tableau dashboarding/EDA project to analyze the trends in Capital Bikeshare data 
 
 **[Movember Face Filter Application](https://github.com/naren-mohan/MovemberFilterApp)**
+OpenCV based face filter application created at Sony to promote Movember event
 
 ## Certifications
 
