@@ -53,16 +53,16 @@ Applying sentimental analysis on topic modeling to analyze the topics of positiv
 **[Hack Amazon Using Amazon](https://github.com/naren-mohan/HackAmazonUsingAmazon)**<br>
 End to end web scraping implementation to notify price drops of products listed on amazon.com using AWS EC2 instance
 
-**[Cluster Analysis of Countries](https://github.com/naren-mohan/World-Indicators-Clustering)**
+**[Cluster Analysis of Countries](https://github.com/naren-mohan/World-Indicators-Clustering)**<br>
 Unsupervised learning implementation of clustering methods and dimensionality reduction on various features using R language
 
-**[Youtube Sentiment Analysis](https://github.com/naren-mohan/Youtube-Sentiment-Analysis)**
+**[Youtube Sentiment Analysis](https://github.com/naren-mohan/Youtube-Sentiment-Analysis)**<br>
 Analyse the sentiment of comments of a YouTube video 
 
-**[Analysis of Capital Bikeshare data](https://github.com/naren-mohan/Analysis-on-Capital-Bikeshare-data)**
+**[Analysis of Capital Bikeshare data](https://github.com/naren-mohan/Analysis-on-Capital-Bikeshare-data)**<br>
 Tableau dashboarding/EDA project to analyze the trends in Capital Bikeshare data 
 
-**[Movember Face Filter Application](https://github.com/naren-mohan/MovemberFilterApp)**
+**[Movember Face Filter Application](https://github.com/naren-mohan/MovemberFilterApp)**<br>
 OpenCV based face filter application created at Sony to promote Movember event
 
 ## Certifications
