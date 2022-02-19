@@ -47,6 +47,8 @@ Stay humble and stay curious for you will always have various things to learn fr
 
 **[Handwritten Digits Classification](https://github.com/naren-mohan/MNIST-digit-classifier)**
 
+**[Yelp Reviews Topic Modeling](https://github.com/naren-mohan/Yelp-Reviews-Topic-Modeling)
+
 **[Youtube Sentiment Analysis](https://github.com/naren-mohan/Youtube-Sentiment-Analysis)**
 
 **[Analysis of Capital Bikeshare data](https://github.com/naren-mohan/Analysis-on-Capital-Bikeshare-data)**
