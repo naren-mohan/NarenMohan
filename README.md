@@ -12,13 +12,13 @@ I am a Data Scientist with 3 years of experience. I enjoy the process of finding
 **Platform** - AWS (EC2, Elastic Beanstalk, Lambda Services), GCP (API Services), MS Excel, Kenna Security, Qualys, GitHub, Azure DevOps, JIRA, Confluence, MS Excel, Splunk, Adobe Creative Suite 
 
 ## 𝗜𝗻𝘁𝗲𝗿𝗲𝘀𝘁𝘀 - 
-Badminton
-Cricket
-Photography
-Cardistry
-Video editing
-Cooking
-Travel
+Badminton <br>
+Cricket <br>
+Photography <br>
+Cardistry <br>
+Video editing <br>
+Cooking <br>
+Travel <br>
 
 ## 𝗜 𝗯𝗲𝗹𝗶𝗲𝘃𝗲 𝗮𝗻𝗱 𝘁𝗿𝘆 𝘁𝗼 𝗹𝗶𝘃𝗲 𝗯𝘆 𝘁𝗵𝗲 𝗳𝗼𝗹𝗹𝗼𝘄𝗶𝗻𝗴 𝗾𝘂𝗼𝘁𝗲𝘀 -
 
