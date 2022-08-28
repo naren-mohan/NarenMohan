@@ -2,28 +2,23 @@
 
 <!-- Add medium blog here -->
 ## 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲 - 
-I love to dig into problems and use modern technologies to solve them. I enjoy the process of penning the objective, listing the assumptions, bringing solutions to the problem and evaluating them. <br>
-I am a Data Analyst and an aspiring Data Scientist with 3 years of experience for Sony in analyzing the vulnerability data and planning the vulnerability remediation process for the platform teams. 
-
-## 𝗛𝗲𝗿𝗲'𝘀 𝘄𝗵𝘆 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 𝗲𝘅𝗰𝗶𝘁𝗲𝘀 𝗺𝗲 𝘁𝗵𝗲 𝗺𝗼𝘀𝘁 -
-The role of a Data Scientist, to me, is essentially playing the role of a detective. You gather data from various sources, you clean and organize the data, you apply various techniques and algorithms to find deeper insights and finally you draw conclusions out of the data, just like a detective would to solve the crime. 
-In the modern days, almost all businesses collect and store data. The best way to benefit from this valuable resource is by making analyses, applying strategies, understanding the data and thus, improving the business with it.
+I am a Data Scientist with 3 years of experience. I enjoy the process of finding insights, experimenting techniques and bringing solutions to a problem. To me, the role of a data scientist is just like a detective. You gather the data from different sources, clean and transform the data, find insights and draw conclusions out of them; just like a detective solving a mystery. 
 
 ## 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗦𝗸𝗶𝗹𝗹𝘀 - 
 **Programming Languages** - Python, R, SQL, SPSS, C++, Node.Js <br>
-**Databases** - MySQL, SQLite, MongoDB, DynamoDB <br>
+**Databases** - MySQL, SQLite, Neo4j, MongoDB, DynamoDB <br>
 **Libraries** - Numpy, Pandas, Matplotlib, Seaborn, Plotly, ggplot2, Scikit-Learn, TensorFlow, Beautiful Soup, Flask <br>
 **Techniques** - Data Wrangling, Web Scraping, ETL, Machine Learning, Deep Learning, Regex, API <br>
-**Platform** - AWS (EC2, Elastic Beanstalk, Lambda Services), GCP (API Services), MS Excel, Kenna Security, Qualys, GitHub, Azure DevOps, JIRA, Confluence, Splunk, Adobe Creative Suite 
+**Platform** - AWS (EC2, Elastic Beanstalk, Lambda Services), GCP (API Services), MS Excel, Kenna Security, Qualys, GitHub, Azure DevOps, JIRA, Confluence, MS Excel, Splunk, Adobe Creative Suite 
 
 ## 𝗜𝗻𝘁𝗲𝗿𝗲𝘀𝘁𝘀 - 
-Badminton 🏸
-Cricket 🏏
-Photography 📸
-Cardistry 🃏
-Video editing 🎞
-Cooking 👨🏽‍🍳
-Travel 🏝
+Badminton
+Cricket
+Photography
+Cardistry
+Video editing
+Cooking
+Travel
 
 ## 𝗜 𝗯𝗲𝗹𝗶𝗲𝘃𝗲 𝗮𝗻𝗱 𝘁𝗿𝘆 𝘁𝗼 𝗹𝗶𝘃𝗲 𝗯𝘆 𝘁𝗵𝗲 𝗳𝗼𝗹𝗹𝗼𝘄𝗶𝗻𝗴 𝗾𝘂𝗼𝘁𝗲𝘀 -
 
